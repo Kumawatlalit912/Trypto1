@@ -1,5 +1,5 @@
 # Krypt - Web 3.0 Blockchain Application
-![Krypt](https://i.ibb.co/DVF4tNW/image.png)
+![Trypt0](https://ibb.co/JpLJs8D)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial.
